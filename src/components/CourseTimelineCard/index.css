@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 250px;
+  width: 500px;
+  border: 1px solid #1e293b;
+  padding: 8px;
+}
+.course-title-container {
+  display: flex;
+  justify-content: space-between;
+}
+.clock-container {
+  display: flex;
+}
